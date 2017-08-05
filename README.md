@@ -11,4 +11,4 @@ It firstly crawl the the comment page of a given game on Steam. Since the page i
 
 
 ## Sample
-
+![image](https://github.com/bilaer/Steam-Game-WordCloud-Generator/blob/master/figure_2.png?raw=true)
